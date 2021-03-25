@@ -3,8 +3,6 @@
          style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
 </p>
 
-### Hi there 👋
-
 ## My info
 - 👩🏻‍💼   Junior Web & App developer
 - 💻    usually using Java language for programmming
