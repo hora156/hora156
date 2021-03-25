@@ -1,12 +1,9 @@
 ### Hi there 👋
 
-## 
-
-<div align="center">
-    
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhora156&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-
-</div>
+## My info
+- 👩🏻‍💼   Junior Web & App developer
+- 💻    usually using Java language for programmming
+- 🤞  Thank you for coming to my space.
 
 
 <div id="main" align="center">
@@ -36,5 +33,13 @@
     <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=oracle&logoColor=white"/>
     <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
 </p>
+
+
+
+<div align="center">
+    
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhora156&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
+</div>
 
 
